@@ -5,7 +5,7 @@ chmod +x ng.sh
 clear
 echo "======================="
 echo "Setup Ngrok US Region"    
-./ngrok tcp --region $CRP 22 &>/dev/null &
+./ngrok tcp --region us 22 &>/dev/null &
 echo "======================="
 echo "Updating Please Wait"
 echo "======================="

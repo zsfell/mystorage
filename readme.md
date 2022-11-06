@@ -2,7 +2,7 @@
 <p align="center">Simple RDP Google Colab</p>
 <div align="center">
 <img src="https://telegra.ph/file/1ad6f99162dc762ccabc2.jpg" width="150" height="150" border="0" alt="PFFP">
-
+</div>
 ## Installing
 - Fork This Repo.
 - Don't forget to give star! :3
@@ -19,5 +19,5 @@
 <p align="center">
     <img alt="Preview" src="">
 </p>
-</p>
-</div>
+
+

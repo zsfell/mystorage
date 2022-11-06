@@ -13,8 +13,8 @@
 - Don't forget to give star! :3
 - Visit https://dashboard.ngrok.com/auth/your-authtoken Copy and Paste Your Authtoken
 - Change Ngrok Authtoken in [`./autosetngrok.sh`](https://github.com/RizzyDev81/mystorage/autosetngrok.sh).
-- Deploy on <a href="https://colab.research.google.com/github" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Deploy in google colab."/></a>
-- enjoy~
+- Deploy on [google colab](https://colab.research.google.com/github).
+- Enjoy~
 
 ### Highlights
 -   [x] Simple.

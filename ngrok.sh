@@ -7,9 +7,10 @@ chmod +x ng.sh
 ./ng.sh
 clear
 echo "======================="
-echo choose ngrok region
+echo "Auto Choose Ngrok Region"
 echo "======================="
 echo "Best region us - United States (Ohio)"
 echo "auto set to us region"  
 ./ngrok tcp --region us 3389 &>/dev/null &
 echo "======================="
+clear

@@ -22,7 +22,7 @@
 
 ### **Preview**
 <p align="center">
-    <img alt="Preview" src="">
+    <img alt="Preview" src="https://raw.githubusercontent.com/RizzyDev81/mystorage/main/screenshot.jpg">
 </p>
 
 

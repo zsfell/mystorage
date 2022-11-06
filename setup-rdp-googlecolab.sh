@@ -1,5 +1,5 @@
 echo "Download ngrok"
-wget https://raw.githubusercontent.com/RizzyDev81/mystorage/main/ngrok-region.sh && chmod +x ngrok-region.sh && ./ngrok-region.sh
+wget https://raw.githubusercontent.com/RizzyDev81/mystorage/main/ngrok.sh && chmod +x ngrok.sh && ./ngrok.sh
 echo Downloading File From RizFurr mystorage github
 echo "===================================="
 echo "Wait 2 Minutes"

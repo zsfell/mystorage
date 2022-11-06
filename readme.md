@@ -1,7 +1,7 @@
 <h1 align="center">Welcome<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt=""><br></h1>
 <p align="center">Simple RDP Google Colab</p>
 <div align="center">
-<img src="https://cdn77-content.filezone.my.id/file/g8anaehd4z7zrlhbw75v.jpg" width="150" height="150" border="0" alt="PFFP">
+<img src="https://cdn77-content.filezone.my.id/file/g8anaehd4z7zrlhbw75v.jpg" width="180" height="180" border="0" alt="PFFP">
 </div>
 <br>
 
@@ -11,9 +11,9 @@
 ## Installing
 - Fork This Repo.
 - Don't forget to give star! :3
-- Visit https://dashboard.ngrok.com/auth/your-authtoken Copy and Paste Your Authtoken
+- Visit [ngrok.com](https://dashboard.ngrok.com/auth/your-authtoken) Copy and Paste Your Authtoken.
 - Change Ngrok Authtoken in [`./autosetngrok.sh`](https://github.com/RizzyDev81/mystorage/autosetngrok.sh).
-- Deploy on [google colab](https://colab.research.google.com/github).
+- Deploy your repo on [google colab](https://colab.research.google.com/github).
 - Enjoy~
 
 ### Highlights

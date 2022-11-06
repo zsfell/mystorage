@@ -9,15 +9,15 @@
 <a href="https://colab.research.google.com/github/RizzyDev81/mystorage/blob/main/xrdp.ipynb#scrollTo=vk2qtOTGIFsQ" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Deploy in google colab."/></a>
 
 ## Installing
-- Fork This Repo.
+- Fork This Repo
 - Don't forget to give star! :3
-- Visit [ngrok.com](https://dashboard.ngrok.com/auth/your-authtoken) Copy and Paste Your Authtoken.
-- Change Ngrok Authtoken in [`./autosetngrok.sh`](https://github.com/RizzyDev81/mystorage/autosetngrok.sh).
-- Deploy your repo on [google colab](https://colab.research.google.com/github).
+- Visit [ngrok.com](https://dashboard.ngrok.com/auth/your-authtoken) Copy and Paste Your Authtoken
+- Change Ngrok Authtoken in [`./autosetngrok.sh`](https://github.com/RizzyDev81/mystorage/blob/main/autosetngrok.sh)
+- Deploy your repo on [google colab](https://colab.research.google.com/github)
 - Enjoy~
 
-### Highlights
--   [x] Simple.
+### Highlight
+-   [x] Simple & easy to using
 -   [x] But Ngrok Server is so slow, maybe the rdp is a bit delay (in android device).
 -   [x] Random project to learning jupyter notebook & shell/bash, im bored heheh X3
 

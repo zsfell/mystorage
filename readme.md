@@ -12,7 +12,7 @@
 - Fork This Repo.
 - Don't forget to give star! :3
 - Change Ngrok Authtoken in [`./autosetngrok.sh`](https://github.com/RizzyDev81/mystorage/autosetngrok.sh).
-  <a href="https://colab.research.google.com/github" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Deploy in google colab."/></a>
+- <a href="https://colab.research.google.com/github" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Deploy in google colab."/></a>
 - enjoy~
 
 ### Highlights

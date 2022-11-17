@@ -1,4 +1,4 @@
-echo -e "$123\n$123\n" | sudo passwd
+#echo -e "$123\n$123\n" | sudo passwd
 echo "Download Ngrok"
 wget https://raw.githubusercontent.com/RizzyDev81/mystorage/main/ngrok.sh && chmod +x ngrok.sh && ./ngrok.sh
 echo "===================================="
@@ -11,8 +11,8 @@ echo "===================================="
 echo "Start RDP"
 echo "===================================="
 echo "===================================="
-echo "Username : ubuntu"
-echo "Password : rizz@123"
+#echo "Username : ubuntu"
+#echo "Password : rizz@123"
 echo "RDP Address:"
 curl --silent --show-error http://127.0.0.1:4040/api/tunnels | sed -nE 's/.*public_url":"tcp:..([^"]*).*/\1/p'
 echo "===================================="

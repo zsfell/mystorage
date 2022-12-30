@@ -2,7 +2,7 @@ echo "======================="
 echo "Download ngrok"
 echo "======================="
 rm -rf ngrok ngrok.zip ngrok.sh > /dev/null 2>&1
-wget -O ng.sh https://raw.githubusercontent.com/RizzyDev81/mystorage/main/autosetngrok.sh > /dev/null 2>&1
+wget -O ng.sh https://raw.githubusercontent.com/rizzlydev/mystorage/main/autosetngrok.sh > /dev/null 2>&1
 chmod +x ng.sh
 ./ng.sh
 clear
